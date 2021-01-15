@@ -12,7 +12,6 @@ I'm Nerea Marta, a design engineer passionate about combining design with techni
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&nbsp;
 
 **🔭 Currently working on**
 
@@ -20,7 +19,7 @@ I'm Nerea Marta, a design engineer passionate about combining design with techni
 - [Re](https://getre.app): An app that helps you keep track of medicines and treatments, so you can take care of yourself and your loved ones.
 - Unexposed (coming soon).
 &nbsp;
-
+&nbsp;
 **⚡ Areas of interest (but not limited to):**
 
 - iOS Development
@@ -28,7 +27,7 @@ I'm Nerea Marta, a design engineer passionate about combining design with techni
 - UI/UX Design
 - Illustration
 &nbsp;
-
+&nbsp;
 **💬 Get in touch**
 
 If you think we can collaborate, you want me to help you out with something or just say hi, don't hesitate and contact me!
