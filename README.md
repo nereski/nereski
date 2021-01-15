@@ -18,16 +18,14 @@ I'm Nerea Marta, a design engineer passionate about combining design with techni
 - [Kiff](https://kiff.app): An iPhone app that helps you eat your food always in its best state, and don't let anything go to waste.
 - [Re](https://getre.app): An app that helps you keep track of medicines and treatments, so you can take care of yourself and your loved ones.
 - Unexposed (coming soon).
-&nbsp;
-&nbsp;
+
 **⚡ Areas of interest (but not limited to):**
 
 - iOS Development
 - Front-end Development
 - UI/UX Design
 - Illustration
-&nbsp;
-&nbsp;
+
 **💬 Get in touch**
 
 If you think we can collaborate, you want me to help you out with something or just say hi, don't hesitate and contact me!
