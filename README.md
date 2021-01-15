@@ -12,13 +12,14 @@ I'm Nerea Marta, a design engineer passionate about combining design with techni
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+&nbsp;
 
 **🔭 Currently working on**
 
 - [Kiff](https://kiff.app): An iPhone app that helps you eat your food always in its best state, and don't let anything go to waste.
 - [Re](https://getre.app): An app that helps you keep track of medicines and treatments, so you can take care of yourself and your loved ones.
 - Unexposed (coming soon).
-
+&nbsp;
 
 **⚡ Areas of interest (but not limited to):**
 
@@ -26,7 +27,7 @@ I'm Nerea Marta, a design engineer passionate about combining design with techni
 - Front-end Development
 - UI/UX Design
 - Illustration
-
+&nbsp;
 
 **💬 Get in touch**
 
