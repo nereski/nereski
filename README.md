@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nerea Marta, a design engineer passionate about combining design with technical skills to build useful and delightful digital experiences. Currently, I design and code along with my mate [@asiermartinez](https://github.com/asiermartinez) at our studio [topxel](https://topxel.com).<br/><br/>
+I'm Nerea Marta, a design engineer passionate about combining design with technical skills to build useful and delightful digital experiences. Currently, I design and code along with my mate [@asiermartinez](https://github.com/asiermartinez) at our studio [Topxel](https://topxel.com).<br/><br/>
 
 <!---
 - 🔭 I’m currently working on ...
