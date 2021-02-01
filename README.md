@@ -5,9 +5,7 @@ I'm Nerea Marta (she/her), a design engineer passionate about combining design w
 **🔭 Currently working on**
 
 - [Kiff](https://kiff.app): An iPhone app that helps you eat your food always in its best state, and don't let anything go to waste.
-- [Re](https://getre.app): An app that helps you keep track of medicines and treatments, so you can take care of yourself and your loved ones.
-- Ninety (coming soon).
-- Unexposed (coming soon).<br/><br/>
+- [Re](https://getre.app): An app that helps you keep track of medicines and treatments, so you can take care of yourself and your loved ones.<br/><br/>
 
 **⚡ Areas of interest (but not limited to):**
 
